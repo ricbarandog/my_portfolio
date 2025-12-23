@@ -5,7 +5,7 @@ import { Terminal, Briefcase, Zap, Palette } from 'lucide-react';
 const skillsData: SkillItem[] = [
   {
     category: "Technical",
-    skills: ["Looker Studio", "XML Tagging", "Freight Software", "Data Visualization", "Dashboard Creation"]
+    skills: ["Looker Studio", "XML Tagging", "Freight Software", "Data Visualization", "Dashboard Creation", "No Code Development"]
   },
   {
     category: "Virtual Assistant",
