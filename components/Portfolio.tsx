@@ -5,29 +5,22 @@ import { ProjectLink } from '../services/types';
 const projects: ProjectLink[] = [
   // --- CODING PROJECTS ---
   {
-    title: "Secure Enrollment System",
+    title: "Booking System",
     category: "coding",
-    url: "#", 
+    url: "https://pickle-booking.vercel.app/", 
     thumbnail: "./enrollment.png", 
-    description: "A secure staff and student portal for Colegio De Santa Catalina De Alejandria, featuring role-based authentication and academic record management.",
+    description: "A secure booking system for Pickle Ball business.",
     tags: ["React", "Security", "Portal"]
   },
   {
-    title: "Logistics Auto-Tracker",
+    title: "Cabinet and Flooring Shop",
     category: "coding",
     url: "#",
     thumbnail: "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    description: "Automated Python script using Selenium to track carrier shipments and update cloud databases in real-time.",
+    description: "A platform where you can shop securely with cabinets and flooring.",
     tags: ["Python", "Selenium", "Automation"]
   },
-  {
-    title: "Sales KPI Dashboard",
-    category: "coding",
-    url: "#",
-    thumbnail: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
-    description: "Interactive data visualization dashboard built in Looker Studio, providing real-time sales metrics and trend analysis.",
-    tags: ["Looker Studio", "Data Analysis", "SQL"]
-  },
+  
   // --- CREATIVE PROJECTS ---
   {
     title: "Video Production Portfolio",
