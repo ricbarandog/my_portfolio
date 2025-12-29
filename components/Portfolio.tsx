@@ -12,6 +12,7 @@ const projects: ProjectLink[] = [
     description: Pickle Booking "A full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
+
   {
     title: "Cabinet and Flooring Shop",
     category: "coding",
