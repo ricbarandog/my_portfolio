@@ -8,7 +8,7 @@ const projects: ProjectLink[] = [
     title: "Booking System",
     category: "coding",
     url: "https://pickle-booking.vercel.app/", 
-    thumbnail: "./booking.png", 
+    thumbnail: "/booking.png", 
     description: "A secure booking system for Pickle Ball business.",
     tags: ["React", "Security", "Portal"]
   },
@@ -16,7 +16,7 @@ const projects: ProjectLink[] = [
     title: "Cabinet and Flooring Shop",
     category: "coding",
     url: "https://demo-shop-red.vercel.app/",
-    thumbnail: "./cabinetshop.png",
+    thumbnail: "/cabinetshop.png",
     description: "A platform where you can shop securely with cabinets and flooring.",
     tags: ["Python", "Selenium", "Automation"]
   },
