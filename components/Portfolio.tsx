@@ -9,7 +9,7 @@ const projects: ProjectLink[] = [
     category: "coding",
     url: "https://pickle-booking.vercel.app/", 
     thumbnail: "/booking.png", 
-    description: Pickle Booking "A full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
+    description: "Pickle Booking a full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
 
@@ -18,7 +18,7 @@ const projects: ProjectLink[] = [
     category: "coding",
     url: "https://demo-shop-red.vercel.app/",
     thumbnail: "/cabinetshop.png",
-    description: "Oak & Stone A sophisticated e-commerce demo for a luxury home goods brand. This project demonstrates my ability to blend high-end visual design with complex frontend logic, featuring a fully responsive storefront, dynamic product filtering, and a polished checkout flow.",
+    description: "Oak & Stone a sophisticated e-commerce demo for a luxury home goods brand. This project demonstrates my ability to blend high-end visual design with complex frontend logic, featuring a fully responsive storefront, dynamic product filtering, and a polished checkout flow.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
   
