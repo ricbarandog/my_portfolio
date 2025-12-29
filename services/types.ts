@@ -20,11 +20,3 @@ export interface ProjectLink {
   category: 'coding' | 'creative';
   tags: string[];
 }
-
-export enum LoadingState {
-  IDLE = 'IDLE',
-  GENERATING_SCRIPT = 'GENERATING_SCRIPT',
-  GENERATING_AUDIO = 'GENERATING_AUDIO',
-  PLAYING = 'PLAYING',
-  ERROR = 'ERROR'
-}
