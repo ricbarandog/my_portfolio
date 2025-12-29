@@ -9,16 +9,16 @@ const projects: ProjectLink[] = [
     category: "coding",
     url: "https://pickle-booking.vercel.app/", 
     thumbnail: "/booking.png", 
-    description: "A secure booking system for Pickle Ball business.",
-    tags: ["React", "Security", "Portal"]
+    description: Pickle Booking "A full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
+    tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
   {
     title: "Cabinet and Flooring Shop",
     category: "coding",
     url: "https://demo-shop-red.vercel.app/",
     thumbnail: "/cabinetshop.png",
-    description: "A platform where you can shop securely with cabinets and flooring.",
-    tags: ["Python", "Selenium", "Automation"]
+    description: Oak & Stone "A sophisticated e-commerce demo for a luxury home goods brand. This project demonstrates my ability to blend high-end visual design with complex frontend logic, featuring a fully responsive storefront, dynamic product filtering, and a polished checkout flow.",
+    tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
   
   // --- CREATIVE PROJECTS ---
@@ -28,7 +28,7 @@ const projects: ProjectLink[] = [
     url: "https://drive.google.com/drive/folders/1k4M1BNYBiK-9y9lgHJv_hUxym8x7I9qg?usp=drive_link",
     thumbnail: "https://images.unsplash.com/photo-1536240478700-b869070f9279?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80", 
     description: "A showcase of professional video editing, color grading, and dynamic storytelling for various brands.",
-    tags: ["Premiere Pro", "Video Editing", "Creative"]
+    tags: ["CapCut", "Video Editing", "Creative"]
   },
   {
     title: "Graphic Design Showcase",
@@ -36,7 +36,7 @@ const projects: ProjectLink[] = [
     url: "https://drive.google.com/drive/folders/1m2NDVT-Y0AehwonXMdNB2hBtWiZWl5C1?usp=drive_link",
     thumbnail: "https://images.unsplash.com/photo-1626785774573-4b799314346d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
     description: "Visual identity assets, social media branding, and UI/UX mockups designed for modern tech companies.",
-    tags: ["Figma", "Branding", "UI/UX"]
+    tags: ["Figma", "Photoshop", "Canva"]
   }
 ];
 
