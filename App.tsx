@@ -98,7 +98,7 @@ function App() {
               </h1>
               
               <p className="text-xl text-slate-500 max-w-xl leading-relaxed font-medium">
-                I'm Ricardo, an <b>IT Professional</b> & <b>Virtual Assistant</b> specialized in automation, logistics software, and data storytelling. I make complex workflows simple.
+                I'm Ricardo, an <b>Tech Specialist</b> & <b>Virtual Assistant</b> specialized in automation, logistics software, and data storytelling. I make complex workflows simple with advanced prompt communication to harness AI's power for website creation.
               </p>
               
               <div className="flex flex-wrap items-center gap-6 pt-6">
