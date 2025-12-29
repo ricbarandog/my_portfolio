@@ -18,7 +18,7 @@ const projects: ProjectLink[] = [
     category: "coding",
     url: "https://demo-shop-red.vercel.app/",
     thumbnail: "/cabinetshop.png",
-    description: Oak & Stone "A sophisticated e-commerce demo for a luxury home goods brand. This project demonstrates my ability to blend high-end visual design with complex frontend logic, featuring a fully responsive storefront, dynamic product filtering, and a polished checkout flow.",
+    description: "Oak & Stone A sophisticated e-commerce demo for a luxury home goods brand. This project demonstrates my ability to blend high-end visual design with complex frontend logic, featuring a fully responsive storefront, dynamic product filtering, and a polished checkout flow.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
   
