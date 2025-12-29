@@ -16,7 +16,7 @@ const projects: ProjectLink[] = [
     title: "Cabinet and Flooring Shop",
     category: "coding",
     url: "https://demo-shop-red.vercel.app/",
-    thumbnail: "https://drive.google.com/file/d/1uB4tFPxqkedWUoqI2pWh101rTNUlQhkx/view?usp=sharing",
+    thumbnail: "./cabinetshop.png",
     description: "A platform where you can shop securely with cabinets and flooring.",
     tags: ["Python", "Selenium", "Automation"]
   },
