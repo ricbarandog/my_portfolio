@@ -61,7 +61,7 @@ export const Portfolio: React.FC = () => {
             Featured Projects
           </h2>
           <p className="max-w-2xl mx-auto text-slate-500 text-lg leading-relaxed">
-            Bridging the gap between code and creativity. Explore my technical builds and creative productions.
+            Bridging the gap between code and creativity. Explore my technical builds and creative productions using AI.
           </p>
 
           {/* Filtering Tabs */}
