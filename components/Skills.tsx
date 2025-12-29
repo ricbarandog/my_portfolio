@@ -17,7 +17,7 @@ const skillsData: SkillItem[] = [
   },
   {
     category: "Creative Tools",
-    skills: ["Google Workspace", "Figma", "Canva", "Adobe Premiere", "Photoshop"]
+    skills: ["Google Workspace", "Figma", "Canva", "Adobe Premiere", "Photoshop", "CapCut"]
   }
 ];
 
