@@ -68,4 +68,12 @@
 .project-card--booking {
   background-image: url("/booking.png"); /* resolves to public/booking.png */
 }
+
+.project-card--video {
+  background-image: url("/camera.png"); /* resolves to public/booking.png */
+}
+
+.project-card--graphic {
+  background-image: url("/graphics.png"); /* resolves to public/booking.png */
+}
     </style>
