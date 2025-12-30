@@ -27,7 +27,7 @@ const projects: ProjectLink[] = [
     title: "Video Production Portfolio",
     category: "creative",
     url: "https://drive.google.com/drive/folders/1k4M1BNYBiK-9y9lgHJv_hUxym8x7I9qg?usp=drive_link",
-    thumbnail: "https://images.unsplash.com/photo-1536240478700-b869070f9279?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80", 
+    thumbnail: "/camera.png", 
     description: "A showcase of professional video editing, color grading, and dynamic storytelling for various brands.",
     tags: ["CapCut", "Video Editing", "Creative"]
   },
@@ -35,7 +35,7 @@ const projects: ProjectLink[] = [
     title: "Graphic Design Showcase",
     category: "creative",
     url: "https://drive.google.com/drive/folders/1m2NDVT-Y0AehwonXMdNB2hBtWiZWl5C1?usp=drive_link",
-    thumbnail: "https://images.unsplash.com/photo-1626785774573-4b799314346d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    thumbnail: "/graphics.png",
     description: "Visual identity assets, social media branding, and UI/UX mockups designed for modern tech companies.",
     tags: ["Figma", "Photoshop", "Canva"]
   }
