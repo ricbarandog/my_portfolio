@@ -44,7 +44,7 @@ export const Contact: React.FC = () => {
             <div className="bg-slate-800 p-8 rounded-2xl border border-slate-700 max-w-md w-full">
               <h3 className="text-xl font-bold mb-4">Ricardo Barandog Jr.</h3>
               <p className="text-slate-400 text-sm mb-6">
-                IT Professional • Virtual Assistant • Data Analyst
+                Tech Specialist • Virtual Assistant • Data Analyst
               </p>
               {/* Updated to Google Drive Direct Download Link */}
               <a 
