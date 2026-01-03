@@ -63,6 +63,7 @@ function App() {
             >
               Let's Talk
             </a>
+           </div>   
           </div>
 
           <button className="md:hidden p-2 text-slate-900" onClick={() => setIsMenuOpen(!isMenuOpen)}>
