@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, ArrowRight, Github, LinkedIn, Mail, BarChart3 } from 'lucide-react';
+import { Menu, X, ArrowRight, Github, Linkedin, Mail, BarChart3 } from 'lucide-react';
 import { Avatar } from './components/Avatar';
 import { Skills } from './components/Skills';
 import { Experience } from './components/Experience';
@@ -77,8 +77,17 @@ function App() {
              {['About', 'Skills', 'Experience', 'Portfolio'].map((item) => (
                <a key={item} href={`#${item.toLowerCase()}`} onClick={(e) => handleNavClick(e, item.toLowerCase())} className="text-xl font-bold text-slate-800">{item}</a>
              ))}
+            <div className="flex items-center gap-4 border-l border-slate-200 pl-8">
+              <a href="https://github.com/ricbarandog" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors">
+                <Github size={18} />
+              </a>
+              <a href="https://www.linkedin.com/in/ric-jr/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors">
+                <Linkedin size={18} />
+              </a>
+              
              <a href="#contact" onClick={(e) => handleNavClick(e, 'contact')} className="text-blue-600 font-black text-xl">Contact Me</a>
           </div>
+             </div>
         )}
       </nav>
 
