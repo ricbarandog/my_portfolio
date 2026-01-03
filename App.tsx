@@ -49,6 +49,13 @@ function App() {
                 <span className="absolute -bottom-1 left-0 w-0 h-0.5 bg-blue-600 transition-all group-hover:w-full"></span>
               </a>
             ))}
+            <div className="flex items-center gap-4 border-l border-slate-200 pl-8">
+              <a href="https://github.com/ric-barandog" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors">
+                <Github size={18} />
+              </a>
+              <a href="https://www.linkedin.com/in/ricardobarandogjr/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors">
+                <Linkedin size={18} />
+              </a>
             <a 
               href="#contact" 
               onClick={(e) => handleNavClick(e, 'contact')} 
