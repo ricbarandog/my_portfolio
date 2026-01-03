@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Mail, Phone, MapPin, Download, Github, LinkedIn } from 'lucide-react';
+import { Mail, Phone, MapPin, Download, Github, Linkedin } from 'lucide-react';
 
 export const Contact: React.FC = () => {
   return (
