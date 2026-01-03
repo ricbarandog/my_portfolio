@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Menu, X, ArrowRight, Github, Linkedin, Mail, BarChart3 } from 'lucide-react';
+import { Menu, X, ArrowRight, Github, Linkedin } from 'lucide-react';
 import { Avatar } from './components/Avatar';
 import { Skills } from './components/Skills';
 import { Experience } from './components/Experience';
