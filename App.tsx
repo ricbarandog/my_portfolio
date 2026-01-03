@@ -77,14 +77,10 @@ function App() {
              {['About', 'Skills', 'Experience', 'Portfolio'].map((item) => (
                <a key={item} href={`#${item.toLowerCase()}`} onClick={(e) => handleNavClick(e, item.toLowerCase())} className="text-xl font-bold text-slate-800">{item}</a>
              ))}
-            <div className="flex items-center gap-4 border-l border-slate-200 pl-8">
-              <a href="https://github.com/ricbarandog" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors">
-                <Github size={18} />
-              </a>
-              <a href="https://www.linkedin.com/in/ric-jr/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors">
-                <Linkedin size={18} />
-              </a>
-               </div>
+             <div className="flex gap-6 border-t pt-6">
+                <a href="https://github.com/ric-barandog" target="_blank" rel="noopener noreferrer" className="text-slate-600 font-bold">GitHub</a>
+                <a href="https://www.linkedin.com/in/ricardobarandogjr/" target="_blank" rel="noopener noreferrer" className="text-blue-600 font-bold">LinkedIn</a>
+             </div>
              <a href="#contact" onClick={(e) => handleNavClick(e, 'contact')} className="text-blue-600 font-black text-xl">Contact Me</a>
           </div>
              
