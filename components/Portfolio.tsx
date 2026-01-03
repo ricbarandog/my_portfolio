@@ -12,6 +12,15 @@ const projects: ProjectLink[] = [
     description: "Pickle Booking a full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
+  
+  {
+    title: "Booking System",
+    category: "coding",
+    url: "https://denison-clinic.vercel.app/", 
+    thumbnail: "/clinic.png", 
+    description: "The Denison Clinic platform is a high-performance practice management ecosystem that bridges the gap between premium patient care and administrative efficiency. Built on the Vercel-GitHub-Supabase stack, it transforms dental operations into a secure, digital-first experience.",
+    tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
+  },
 
   {
     title: "Cabinet and Flooring Shop",
