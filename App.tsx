@@ -50,10 +50,10 @@ function App() {
               </a>
             ))}
             <div className="flex items-center gap-4 border-l border-slate-200 pl-8">
-              <a href="https://github.com/ric-barandog" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors">
+              <a href="https://github.com/ricbarandog" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-slate-900 transition-colors">
                 <Github size={18} />
               </a>
-              <a href="https://www.linkedin.com/in/ricardobarandogjr/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors">
+              <a href="https://www.linkedin.com/in/ric-jr/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors">
                 <Linkedin size={18} />
               </a>
             <a 
