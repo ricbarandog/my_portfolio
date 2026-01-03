@@ -84,10 +84,10 @@ function App() {
               <a href="https://www.linkedin.com/in/ric-jr/" target="_blank" rel="noopener noreferrer" className="text-slate-400 hover:text-blue-600 transition-colors">
                 <Linkedin size={18} />
               </a>
-              
+               </div>
              <a href="#contact" onClick={(e) => handleNavClick(e, 'contact')} className="text-blue-600 font-black text-xl">Contact Me</a>
           </div>
-             </div>
+             
         )}
       </nav>
 
