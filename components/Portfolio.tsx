@@ -19,7 +19,7 @@ const projects: ProjectLink[] = [
     url: "https://denison-clinic.vercel.app/", 
     thumbnail: "/clinic.png", 
     description: "The Denison Clinic platform is a high-performance practice management ecosystem that bridges the gap between premium patient care and administrative efficiency. Built on the Vercel-GitHub-Supabase stack, it transforms dental operations into a secure, digital-first experience.",
-    tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
+    tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel", "Supabase","Twilio"]
   },
 
   {
