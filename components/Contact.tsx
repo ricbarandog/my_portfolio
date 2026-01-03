@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Mail, Phone, MapPin, Download } from 'lucide-react';
+import { Mail, Phone, MapPin, Download, Github, LinkedIn } from 'lucide-react';
 
 export const Contact: React.FC = () => {
   return (
@@ -36,6 +36,14 @@ export const Contact: React.FC = () => {
                 </div>
                 <span>Barangay Banilad, Dumaguete City, Philippines 6200</span>
               </div>
+            </div>
+             <div className="flex gap-4">
+              <a href="https://github.com/ric-barandog" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-slate-800 rounded-2xl flex items-center justify-center hover:bg-slate-700 transition-colors">
+                <Github size={22} />
+              </a>
+              <a href="https://www.linkedin.com/in/ricardobarandogjr/" target="_blank" rel="noopener noreferrer" className="w-12 h-12 bg-slate-800 rounded-2xl flex items-center justify-center hover:bg-blue-600 transition-colors">
+                <Linkedin size={22} />
+              </a>
             </div>
           </div>
 
