@@ -5,16 +5,16 @@ import { ProjectLink } from '../services/types';
 const projects: ProjectLink[] = [
   // --- CODING PROJECTS ---
   {
-    title: "Booking System",
+    title: "Pickle Ball Booking System",
     category: "coding",
     url: "https://pickle-booking.vercel.app/", 
     thumbnail: "/booking.png", 
-    description: "Pickle Booking a full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
+    description: "Pickle Ball Booking a full-featured sports reservation demo featuring real-time court availability, coaching session management, and a clean, modern UI. Designed to scale from local clubs to multi-facility sports hubs.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Vite", "Vercel"]
   },
   
   {
-    title: "Booking System",
+    title: "Clinic Booking System",
     category: "coding",
     url: "https://denison-clinic.vercel.app/", 
     thumbnail: "/clinic.png", 
